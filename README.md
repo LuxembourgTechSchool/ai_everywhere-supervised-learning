@@ -4,5 +4,6 @@
 Files to follow along in the crash course. 
 
 ## How to run the scripts
-1. Run `install.py`
-2. Run the notebook.
+1. Create venv and have it activated.
+2. Run `python install.py`
+3. Run the notebook.
